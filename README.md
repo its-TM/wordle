@@ -3,7 +3,7 @@
 Do YOU have what it takes to guess a 5 letter word in under 6 guesses in the terminal ⁉️
 This project is a simple terminal-based clone of the popular word guessing game Wordle purely written in C, featuring color-coded feedback and 5 letter input validation!
 
-![Game Preview](https://imgur.com/a/XMR5ii9)
+![Game Preview](https://imgur.com/a/XMR5ii9.png)
 
 ## Features
 - ✅ Exact letter match (GREEN)
