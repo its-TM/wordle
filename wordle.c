@@ -216,7 +216,6 @@ int check_word(const char* guess, int status[], const char* choice)
             }
         }
     }
-
     return score;
 }
 
