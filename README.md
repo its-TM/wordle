@@ -36,7 +36,7 @@ This project is a simple terminal-based clone of the popular word guessing game 
 wordle/
 ├── wordle.c        # Main game code
 ├── wordle.txt      # Word list
-└──  README.md      # This file
+└── README.md      # This file
 ```
 
 ## Contributing
